@@ -45,4 +45,16 @@ It's free!
 ## Built With:
 * [React](https://pt-br.reactjs.org/)
 
+* [axios](https://www.npmjs.com/package/axios) - v0.21.0
+* [react](https://www.npmjs.com/package/react) - v17.0.1
+* [filesize](https://www.npmjs.com/package/filesize) - v6.1.0
+* [lodash](https://www.npmjs.com/package/lodash) - v4.17.20
+* [react-dom](https://www.npmjs.com/package/react-dom) - v17.0.1
+* [web-vitals](https://www.npmjs.com/package/web-vitals) - v0.2.4
+* [react-icons](https://www.npmjs.com/package/react-icons) - v3.11.0
+* [react-script](https://www.npmjs.com/package/react-scripts) - v4.0.0
+* [react-dropzone](https://www.npmjs.com/package/react-dropzone) - v11.2.4
+* [styled-components](https://www.npmjs.com/package/styled-components) - v5.2.1
+* [react-circular-progressbar](https://www.npmjs.com/package/react-circular-progressbar) - v2.0.3
+
 Thank you!
