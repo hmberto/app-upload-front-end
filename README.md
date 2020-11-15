@@ -14,9 +14,9 @@ const api = axios.create({
 You can now start your application using **npm start**. After that it will be able to access your application in the browser through the address **http://localhost:3001** (if you have not changed).
 
 ## Resources
-Upload and store new images;
-Copy a link to share your uploaded image;
-Delete uploaded images;
+- Upload and store new images;
+- Copy a link to share your uploaded image;
+- Delete uploaded images;
 
 ## Important
 By default the Back-end only accepts **image files** with a maximum size of **2MB**. If you want to change it you can take a look at the repository by clicking [here](https://github.com/hmberto/app-upload-back-end).
