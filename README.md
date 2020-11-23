@@ -61,8 +61,7 @@ Also, you can use this Project as you wish.
 It's free!
 
 ## Built With:
-* [React](https://pt-br.reactjs.org/)
-
+* [React](https://pt-br.reactjs.org/) - v17.0.1
 * [axios](https://www.npmjs.com/package/axios) - v0.21.0
 * [react](https://www.npmjs.com/package/react) - v17.0.1
 * [filesize](https://www.npmjs.com/package/filesize) - v6.1.0
