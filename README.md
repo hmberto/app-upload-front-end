@@ -20,6 +20,24 @@ You can now start your application using **npm start**. After that it will be ab
 - Copy a link to share your uploaded image;
 - Delete uploaded images;
 
+## Cypress e2e tests
+~~~
+npm run tests
+~~~
+To change the URL of your application on Cypress go to cypress.json then update it.
+~~~
+{
+	"baseUrl": "http://192.168.15.3:3001"
+}
+~~~
+
+To change the folder of your tests on Cypress go to cypress.json then update it.
+~~~
+{
+	"integrationFolder": "tests"
+}
+~~~
+
 ## Important
 By default the Back-end only accepts **image files** with a maximum size of **2MB**. If you want to change it you can take a look at the repository by clicking [here](https://github.com/hmberto/app-upload-back-end).
 
