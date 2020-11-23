@@ -27,14 +27,14 @@ npm run tests
 To change the URL of your application on Cypress go to cypress.json then update it.
 ~~~
 {
-	"baseUrl": "http://192.168.15.3:3001"
+  "baseUrl": "http://192.168.15.3:3001"
 }
 ~~~
 
 To change the folder of your tests on Cypress go to cypress.json then update it.
 ~~~
 {
-	"integrationFolder": "tests"
+  "integrationFolder": "tests"
 }
 ~~~
 
